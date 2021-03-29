@@ -727,6 +727,14 @@ ul a i {
         height: 350px;
         width: 350px;
     }
+    .nav-item {
+        z-index: 999;
+        padding: -15px;
+        margin: -10px;
+    }
+    .d-flex {
+        margin: -5px;
+    }
     .about .about-content .column {
         width: 100%;
     }
