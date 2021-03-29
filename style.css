@@ -727,10 +727,10 @@ ul a i {
         height: 350px;
         width: 350px;
     }
-    .nav-item {
+    .navbar {
         z-index: 999;
-        padding: -15px;
-        margin: -10px;
+        position: fixed;
+        width: 100%;
     }
     .d-flex {
         margin: -5px;
